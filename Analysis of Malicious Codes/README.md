@@ -6,7 +6,7 @@
 - bintext
 - upx
 - peid
-- depends
+- depends (dependecy walker)
 - reshacker
 - peview
 - VirusTotal
@@ -14,6 +14,9 @@
 - process monitor
 - OllyDbg
 - [strings]
+- process explorer
+- registry editor (windows)
+- ApateDNS
 
 #### While studying, I felt that there were many old programs that did not work well, so I thought I wanted to make an analysis program.
 #### Please take note of the advantages. And if there is a better program or something that is being developed in Python, I would appreciate it if you let me know.<br><br>
