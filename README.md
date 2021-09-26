@@ -15,6 +15,7 @@
        - Listen to English radio or news
        - Study for growth, study and communication, not for English test
        - Write as much English as possible
+###### (And try to read in English what interests you. I read computer related articles in English and try to read information or books in English. Also, if you like games, watching overseas streaming seems to be the answer.)
 
 ### personal goals
 
