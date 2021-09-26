@@ -15,3 +15,23 @@
        - Listen to English radio or news
        - Study for growth, study and communication, not for English test
        - Write as much English as possible
+
+### personal goals
+
+#### ( Computer language (programming language )
+- Python
+- C
+- Assembly
+
+#### ( Steadily little by little )
+- ARM
+- Reversing
+- Forensics
+
+#### ( Get Involved )
+- Competition
+- Conference
+
+#### ( What I have to do )
+- outdoor activities (international activity)
+- Thesis
