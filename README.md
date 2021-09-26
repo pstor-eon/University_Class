@@ -35,3 +35,15 @@
 #### ( What I have to do )
 - outdoor activities (international activity)
 - Thesis
+
+### School Life
+- regular lifestyle
+- coding 4 hours a day
+- The rest of the time is for personal study and research or learning new skills.
+- Continue to study cyber security
+- Organize what you have studied
+  - I didn't get it, but what I worked hard on that day and what I learned while working in vain.
+  - Organize new techniques or contents.
+  - Solve errors or problems that can't be solved or organize problems.
+  - Writing memoirs.
+- Energy
