@@ -47,3 +47,7 @@
   - Solve errors or problems that can't be solved or organize problems.
   - Writing memoirs.
 - Energy
+  - Don't run too fast.
+  - To prevent burnout.
+  - Doing it consistently.
+  - Don't give up.
