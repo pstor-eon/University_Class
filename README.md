@@ -52,3 +52,4 @@
   - To prevent burnout.
   - Doing it consistently.
   - Don't give up.
+###### (This is my study method and also the method my professor taught me. Write down what you learned or studied that day on a piece of paper later. If I write it down and don't remember it, I just study it again. This will make your memory last longer and improve your study efficiency. If you study like this, and if you like it, follow along.)
